@@ -36,3 +36,11 @@ Applied label encoding to categorical variables such as merchant, transaction ca
 
 **Spatial Features:**
 Leveraged latitude and longitude data to analyze merchant–customer proximity and detect anomalous behavior.
+
+## 📁 Data Source
+
+The dataset used in this project was sourced from the **Credit Card Fraud Data** dataset on **Kaggle**, created by **Chetan Mittal**.
+
+Dataset link: https://www.kaggle.com/datasets/chetanmittal033/credit-card-fraud-data
+
+All credit for data collection and original preparation belongs to the dataset’s author.  
